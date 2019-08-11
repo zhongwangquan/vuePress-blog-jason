@@ -29,7 +29,8 @@ module.exports = {
     // 导航
     nav: [
       { text: 'jason自学笔记', items: [
-        { text: '前端自学笔记-第一篇(0805)', link: '/learning/前端自学笔记1'}
+        { text: '前端自学笔记-第一篇(0805)', link: '/learning/前端自学笔记1'},
+        { text: '前端自学笔记-第二篇(0811)', link: '/learning/前端自学笔记2'}
       ]
     },
       // { text: '前端面试之道',link: '/interview/'},
@@ -44,7 +45,9 @@ module.exports = {
       // 静态资源的别名
       alias: {
         '@vuepress': '../images/vuepress',
-        '@vue': '../images/vue'
+        '@vue': '../images/vue',
+        '@learning': '../images/learning'
+
       }
     }
   }
