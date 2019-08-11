@@ -2,9 +2,9 @@
 home: true
 lang: zh-CN
 heroText: jason 前端小院
-heroImage: /logo.jpg
-actionText: 开始 →
-actionLink: /learning/
+heroImage: /dog.jpg
+actionText: 开始阅读 →
+actionLink: /learning/前端自学笔记1
 features:
 - title: A Blog
   details: 记录前端学习情况。

@@ -5,7 +5,7 @@ module.exports = {
   description: '兴趣是最好的老师',
   head: [
     // 页面icon
-    ['link', { rel: 'logo', href: '/logo.png' }]
+    ['link', { rel: 'icon', href: '/dog.jpg' }]
   ],
   // 端口号
   port: 3000,
@@ -33,11 +33,11 @@ module.exports = {
       ]
     },
       // { text: '前端面试之道',link: '/interview/'},
-      // { text: '数据结构和算法', link: '/algorithm/'},
-      // { text: 'Vue.js', link: '/vue/'},
-      // { text: 'Webpack',link: '/webpack/'},
-      // { text: 'VuePress',link: '/vuepress/'},
-      // { text: '基础配置功能',link: '/common/'}
+      { text: '数据结构和算法', link: '/algorithm/'},
+      { text: 'Vue.js', link: '/vue/'},
+      { text: 'Webpack',link: '/webpack/'},
+      { text: 'VuePress',link: '/vuepress/'},
+      { text: '基础配置功能',link: '/common/'}
   ]},
   configureWebpack: {
     resolve: {
