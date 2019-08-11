@@ -28,7 +28,7 @@ module.exports = {
     editLinkText: '编辑此页',
     // 导航
     nav: [
-      { text: 'jason自学笔记', items: [
+      { text: '前端自学笔记系列', items: [
         { text: '前端自学笔记-第一篇(0805)', link: '/learning/前端自学笔记1'},
         { text: '前端自学笔记-第二篇(0811)', link: '/learning/前端自学笔记2'}
       ]
