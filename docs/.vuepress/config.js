@@ -32,7 +32,7 @@ module.exports = {
         { text: '前端自学笔记-第一篇(0805)', link: '/learning/前端自学笔记1'},
         { text: '前端自学笔记-第二篇(0811)', link: '/learning/前端自学笔记2'},
         { text: '前端自学笔记-第三篇(0818)', link: '/learning/前端自学笔记3'},
-        { text: '前端自学笔记-第三篇(0825)', link: '/learning/前端自学笔记4'}
+        { text: '前端自学笔记-第四篇(0825)', link: '/learning/前端自学笔记4'}
       ]
     },
       // { text: '前端面试之道',link: '/interview/'},
