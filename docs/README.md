@@ -10,5 +10,5 @@ features:
   details: 记录前端学习情况。
 - title: For Me
   details: 对技术探索充满了好奇。
-footer: Copyright © 2019-present jason
+footer: Copyright ©2019-present huang_jiaquan@126.com All Rights Reserved. 备案号：赣ICP备19009031号-1
 ---
