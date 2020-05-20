@@ -1,7 +1,7 @@
 ---
 home: true
 lang: zh-CN
-heroText: jason的前端小院6
+heroText: jason前端小院
 heroImage: /dog.jpg
 actionText: 开始阅读 →
 actionLink: /learning/前端自学笔记4
