@@ -4,7 +4,7 @@ lang: zh-CN
 heroText: jason前端小院
 heroImage: /dog.jpg
 actionText: 开始阅读 →
-actionLink: /learning/前端自学笔记4
+actionLink: /learning/前端自学笔记1
 features:
 - title: A Blog
   details: 记录前端学习情况。
