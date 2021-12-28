@@ -1,4 +1,4 @@
-# 前端自学笔记-第四篇(0825)
+# 前端动画方案对比
 
 **目录**
 [[toc]]
@@ -44,14 +44,14 @@ gka E:\img -ucs -t canvas
 下面是我制作的demo,丑是丑了点，但是原理实现了
 
 这是通过Adobe After Effects制作的效果
-![不使用别名引用](~@learning/6.png)
+![不使用别名引用](../../images/notes/6.png)
 
 
 通过AE导出每一帧图片，然后通过GKA生成的效果。
 扫描二维码可以查看效果
 
 最下面的gif图片，是通过ps合成的。
-![不使用别名引用](~@learning/4.png)
+![不使用别名引用](../../images/notes/4.png)
 
 
 ## 二、不同动效性能分析
@@ -107,20 +107,20 @@ chrome- Performance： <https://zhuanlan.zhihu.com/p/41017888>
 
 ### 下面是性能表现数据（实测）
 #### css 性能表现
-![不使用别名引用](~@learning/css1.png)
-![不使用别名引用](~@learning/css2.png)
+![不使用别名引用](../../images/notes/css1.png)
+![不使用别名引用](../../images/notes/css2.png)
 
 #### canvas 性能表现
-![不使用别名引用](~@learning/canvas1.png)
-![不使用别名引用](~@learning/canvas2.png)
+![不使用别名引用](../../images/notes/canvas1.png)
+![不使用别名引用](../../images/notes/canvas2.png)
 
 #### svg 性能表现
-![不使用别名引用](~@learning/svg1.png)
-![不使用别名引用](~@learning/svg2.png)
+![不使用别名引用](../../images/notes/svg1.png)
+![不使用别名引用](../../images/notes/svg2.png)
 
 #### gif 性能表现
-![不使用别名引用](~@learning/gif1.png)
-![不使用别名引用](~@learning/gif2.png)
+![不使用别名引用](../../images/notes/gif1.png)
+![不使用别名引用](../../images/notes/gif2.png)
 
 
 
@@ -135,7 +135,7 @@ chrome- Performance： <https://zhuanlan.zhihu.com/p/41017888>
 pdf地址： <https://github.com/zhongwangquan/ppts/blob/master/2019_TLC_ppts/ppt/%E5%A4%A7%E5%89%8D%E7%AB%AF%E4%B8%93%E5%9C%BA/%E5%A4%A7%E6%BC%A0/%E6%8E%A2%E7%B4%A2%E5%8A%A8%E6%95%88%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F.pdf>
 
 
-![不使用别名引用](~@learning/taobao.png)
+![不使用别名引用](../../images/notes/taobao.png)
 
 ### 想要达成的效果
 
@@ -151,6 +151,6 @@ Lottie-前端实现AE动效:<https://juejin.im/post/5c8ddddce51d4563ed1efac9>
 
 通过控制json数据，anm.goToAndPlay控制动画状态的切换，如下图例中一个JSON文件包含了2个动画状态的数据：
 
-![不使用别名引用](~@learning/lottie.png)
+![不使用别名引用](../../images/notes/lottie.png)
 
 ### 等有时间了再来实现下，跟上面的动画进行对比。

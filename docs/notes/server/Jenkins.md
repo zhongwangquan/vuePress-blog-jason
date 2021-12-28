@@ -1,9 +1,7 @@
-# 前端自学笔记-第二篇(0811)
+## jenkins部署
 
-**目录**
-[[toc]]
 
-## 一、jenkins自动部署vuePress博客项目
+### 一、jenkins自动部署vuePress博客项目
 
 ### 自动化部署项目demo链接
 <http://blog.flutterweb.cn>
@@ -17,7 +15,7 @@
 
 今天部署好了vuepress项目，现在写好了博客页面，只要vscode一提交，jenkins会自动打包并且部署；如果部署失败，还会发送邮件提醒。爽的不行！
 
-![不使用别名引用](~@learning/3.png)
+![不使用别名引用](../../images/notes/3.png)
 
 ### 教程推荐
 1. Jenkins打造强大的前端自动化工作流: 
@@ -33,10 +31,10 @@
 
     vuepress的dist目录比一般的项目要多两级，因而配置稍稍不一样。
     贴图感受下：
-    ![不使用别名引用](~@learning/2.png)
+    ![不使用别名引用](../../images/notes/2.png)
 
 
-    ![不使用别名引用](~@learning/1.png)
+    ![不使用别名引用](../../images/notes/1.png)
 ::: tip
 send build artificial over SSH， 参数说明：
 
@@ -74,19 +72,6 @@ Vue + Element UI 实现权限管理系统 前端篇：<https://www.cnblogs.com/x
 3. mock使用了自己服务器搭建的yapi ,还算是稳定
 4. 刚好最近公司在上一个后台项目，自己也有参与。这套教程不但帮助自己快速入手项目，而且偶尔能帮同事答疑。
 5. 对于element ui各个模块用法及参数理解更透彻，过程中不断才坑，不断积累经验
-
-### 最难的后台项目学习计划：下两周慢慢搞定
-
-**项目地址：**
-
-手摸手，带你用vue后台：
-<https://juejin.im/post/59097cd7a22b9d0065fb61d2>
-
-第一个项目教程非常详细，简单快速的对于后台项目框架有了整体的思维。
-
-而这第二个项目，将会是第一个的深入。当然如果能够搞定，收获也将会很大。
-
-
 
 
 

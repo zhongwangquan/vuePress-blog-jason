@@ -1,9 +1,9 @@
-# 前端自学笔记-第一篇(0805)
+## nginx配置
 
 **目录**
 [[toc]]
 
-## 一、部署的nginx项目
+### 一、部署的nginx项目
 
 ### nginx项目列表
 1. vuepress项目：<http://blog.flutterweb.cn>
