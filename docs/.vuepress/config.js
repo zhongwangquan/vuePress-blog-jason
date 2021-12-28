@@ -33,7 +33,7 @@ module.exports = {
     // 导航
     nav: [{
         text: '文章列表',
-        link: '/notes/Notes',
+        link: '/notes/javaScript/this',
 
       },
     ],
@@ -43,11 +43,11 @@ module.exports = {
           title: 'JavaScript',
           collapsable: true,
           children: [
+            '/notes/javaScript/this',
             '/notes/javaScript/constructor',
             '/notes/javaScript/prototype',
             '/notes/javaScript/inherit',
             '/notes/javaScript/deepCopy',
-            '/notes/javaScript/this',
             '/notes/javaScript/event',
             '/notes/javaScript/propagation',
             '/notes/javaScript/cookie',
